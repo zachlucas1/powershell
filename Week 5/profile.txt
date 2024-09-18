@@ -1,0 +1,623 @@
+
+ NPM(K)    PM(M)      WS(M)     CPU(s)      Id  SI ProcessName
+ ------    -----      -----     ------      --  -- -----------
+      0     0.00       0.00       0.00       0 …87 
+      0     0.00       0.00       0.00       1   1 
+      0     0.00       0.00       0.00     276 276 
+      0     0.00       0.00       0.00     277 277 
+      0     0.00       0.00       0.00     279 279 
+      0     0.00       0.00       0.00     280 280 
+      0     0.00       0.00       0.00     281 281 
+      0     0.00       0.00       0.00     284 284 
+      0     0.00       0.00       0.00     286 286 
+      0     0.00       0.00       0.00     288 288 
+      0     0.00       0.00       0.00     291 291 
+      0     0.00       0.00       0.00     293 293 
+      0     0.00       0.00       0.00     294 294 
+      0     0.00       0.00       0.00     299 299 
+      0     0.00       0.00       0.00     303 303 
+      0     0.00       0.00       0.00     304 304 
+      0     0.00       0.00       0.00     305 305 
+      0     0.00       0.00       0.00     306 306 
+      0     0.00       0.00       0.00     309 309 
+      0     0.00       0.00       0.00     312 312 
+      0     0.00       0.00       0.00     313 313 
+      0     0.00       0.00       0.00     314 314 
+      0     0.00       0.00       0.00     315 315 
+      0     0.00       0.00       0.00     316 316 
+      0     0.00       0.00       0.00     317 317 
+      0     0.00       0.00       0.00     318 318 
+      0     0.00       0.00       0.00     319 319 
+      0     0.00       0.00       0.00     322 322 
+      0     0.00       0.00       0.00     324 324 
+      0     0.00       0.00       0.00     326 326 
+      0     0.00       0.00       0.00     328 328 
+      0     0.00       0.00       0.00     333 333 
+      0     0.00       0.00       0.00     334 334 
+      0     0.00       0.00       0.00     335 335 
+      0     0.00       0.00       0.00     337 337 
+      0     0.00       0.00       0.00     338 338 
+      0     0.00       0.00       0.00     339 339 
+      0     0.00       0.00       0.00     340 340 
+      0     0.00       0.00       0.00     341 341 
+      0     0.00       0.00       0.00     342 342 
+      0     0.00       0.00       0.00     343 343 
+      0     0.00       0.00       0.00     344 344 
+      0     0.00       0.00       0.00     345 345 
+      0     0.00       0.00       0.00     346 346 
+      0     0.00       0.00       0.00     350 350 
+      0     0.00       0.00       0.00     352 352 
+      0     0.00       0.00       0.00     353 353 
+      0     0.00       0.00       0.00     380 380 
+      0     0.00       0.00       0.00     381 381 
+      0     0.00       0.00       0.00     382 382 
+      0     0.00       0.00       0.00     392   1 
+      0     0.00       0.00       0.00     393 393 
+      0     0.00       0.00       0.00     395 395 
+      0     0.00       0.00       0.00     405 405 
+      0     0.00       0.00       0.00     431 431 
+      0     0.00       0.00       0.00     432 432 
+      0     0.00       0.00       0.00     433 433 
+      0     0.00       0.00       0.00     435   1 
+      0     0.00       0.00       0.00     438 438 
+      0     0.00       0.00       0.00     439 439 
+      0     0.00       0.00       0.00     440 440 
+      0     0.00       0.00       0.00     446 446 
+      0     0.00       0.00       0.00     447 447 
+      0     0.00       0.00       0.00     455 455 
+      0     0.00       0.00       0.00     456 456 
+      0     0.00       0.00       0.00     461 461 
+      0     0.00       0.00       0.00     466 466 
+      0     0.00       0.00       0.00     468 468 
+      0     0.00       0.00       0.00     470 470 
+      0     0.00       0.00       0.00     472 472 
+      0     0.00       0.00       0.00     473 473 
+      0     0.00       0.00       0.00     475   1 
+      0     0.00       0.00       0.00     476 476 
+      0     0.00       0.00       0.00     478   1 
+      0     0.00       0.00       0.00     483   1 
+      0     0.00       0.00       0.00     500 500 
+      0     0.00       0.00       0.00     503 503 
+      0     0.00       0.00       0.00     505 505 
+      0     0.00       0.00       0.00     512 512 
+      0     0.00       0.00       0.00     518 518 
+      0     0.00       0.00       0.00     526 526 
+      0     0.00       0.00       0.00     528 528 
+      0     0.00       0.00       0.00     539   1 
+      0     0.00       0.00       0.00     540   1 
+      0     0.00       0.00       0.00     571 571 
+      0     0.00       0.00       0.00     583   1 
+      0     0.00       0.00       0.00     585 585 
+      0     0.00       0.00       0.00     605 605 
+      0     0.00       0.00       0.00     620 620 
+      0     0.00       0.00       0.00     629 629 
+      0     0.00       0.00       0.00     632 632 
+      0     0.00       0.00       0.00     634 634 
+      0     0.00       0.00       0.00     636 636 
+      0     0.00       0.00       0.00     674 674 
+      0     0.00       0.00       0.00     723 723 
+      0     0.00       0.00       0.00     751 751 
+      0     0.00       0.00       0.00     794   1 
+      0     0.00       0.00       0.00     819 819 
+      0     0.00       0.00       0.00     822 822 
+      0     0.00       0.00       0.00     823 823 
+      0     0.00       0.00       0.00     824 284 
+      0     0.00       0.00       0.00     872 872 
+      0     0.00       0.00       0.00     875   1 
+      0     0.00       0.00       0.00     877   1 
+      0     0.00       0.00       0.00     878   1 
+      0     0.00       0.00       0.00     885   1 
+      0     0.00       0.00       0.00     900 900 
+      0     0.00       0.00       0.00     905 905 
+      0     0.00       0.00       0.00     934 934 
+      0     0.00       0.00       0.00    1005 …05 
+      0     0.00       0.00       0.00    6817 …17 
+      0     0.00       0.00       0.00    6819 …19 
+      0     0.00       0.00       0.00    6835 …35 
+      0     0.00       0.00       0.00    7187 …87 
+      0     0.00       0.00       0.00    7298 …98 
+      0     0.00       0.00       0.00    7311 …11 
+      0     0.00       0.00       0.00   10699 …99 
+      0     0.00       0.00       0.00   10700 …00 
+      0     0.00       0.00       0.00   11579 …79 
+      0     0.00       0.00       0.00   15425 …25 
+      0     0.00       0.00       0.00   18145 …45 
+      0     0.00       0.00       0.00   18547 …47 
+      0     0.00       0.00       0.00   18640 …40 
+      0     0.00       0.00       0.00   18658 …58 
+      0     0.00       0.00       0.00   18693 …93 
+      0     0.00       0.00       0.00   18857 …57 
+      0     0.00       0.00       0.00   18858 …58 
+      0     0.00       0.00       0.00   18859 …59 
+      0     0.00       0.00       0.00   19144 …44 
+      0     0.00       0.00       0.00   19145   1 
+      0     0.00       0.00       0.00   19166 …66 
+      0     0.00       0.00       0.00   19221 …21 
+      0     0.00       0.00       0.00   19266 …66 
+      0     0.00       0.00       0.00   19268 …68 
+      0     0.00       0.00       0.00   19534 …34 
+      0     0.00       0.00       0.00   19546 …46 
+      0     0.00       0.00       0.00   19562 …62 
+      0     0.00       0.00       0.00   20180 …80 
+      0     0.00       0.00       0.00   20224 …24 
+      0     0.00       0.00       0.00   20248 …48 
+      0     0.00       0.00       0.00   20410 …10 
+      0     0.00       0.00       0.00   22144 …44 
+      0     0.00       0.00       0.00   22686 …86 
+      0     0.00       0.00       0.00   22787 …87 
+      0     0.00       0.00       0.00   23190 …90 
+      0     0.00       0.00       0.00   35491 …91 
+      0     0.00       0.00       0.00   36999 …99 
+      0     0.00       0.00       0.00   37005 …05 
+      0     0.00       0.00       0.00   39050 …50 
+      0     0.00       0.00       0.00   39059 …59 
+      0     0.00       0.00       0.00   67491 …91 
+      0     0.00       0.00       0.00   67499 …99 
+      0     0.00       0.00       0.00   67500   1 
+      0     0.00       0.00       0.00   67501 …01 
+      0     0.00       0.00       0.00   70426 …26 
+      0     0.00       0.00       0.00   72545 …45 
+      0     0.00       0.00       0.00   72596 …96 
+      0     0.00       0.00       0.00   72688 …88 
+      0     0.00       0.00       0.00   72689 …89 
+      0     0.00       0.00       0.00   72745 …45 
+      0     0.00       0.00       0.00   72808 …08 
+      0     0.00       0.00       0.00   72815 …15 
+      0     0.00       0.00       0.00   72824 …24 
+      0     0.00       0.00       0.00   72829 …29 
+      0     0.00       0.00       0.00   72830 …30 
+      0     0.00       0.00       0.00   72842 …42 
+      0     0.00       0.00       0.00   72919 …19 
+      0     0.00       0.00       0.00   72934 …34 
+      0     0.00       0.00       0.00   72939 …39 
+      0     0.00       0.00       0.00   72954 …54 
+      0     0.00       0.00       0.00   72955 …55 
+      0     0.00       0.00       0.00   73016 …16 
+      0     0.00       0.00       0.00   73879 …79 
+      0     0.00       0.00       0.00   75491 …91 
+      0     0.00       0.00       0.00   75702 …02 
+      0     0.00       0.00       0.00   76931 …31 
+      0     0.00       0.00       0.00   77123 …23 
+      0     0.00       0.00       0.00   78078 …78 
+      0     0.00       0.00       0.00   80174   1 
+      0     0.00       0.00       0.00   83431 …31 
+      0     0.00       0.00       0.00   83567 …67 
+      0     0.00       0.00       0.00   83568 …68 
+      0     0.00       0.00       0.00   83572 …72 
+      0     0.00       0.00       0.00   83621 …21 
+      0     0.00       0.00       0.00   85296 …96 
+      0     0.00       0.00       0.00   85297 …97 
+      0     0.00       0.00       0.00   85299 …99 
+      0     0.00       0.00       0.00   85300 …00 
+      0     0.00       0.00       0.00   85349 …49 
+      0     0.00       0.00       0.00   85352 …52 
+      0     0.00       0.00       0.00   86473 …73 
+      0     0.00       0.00       0.00   86496   1 
+      0     0.00       0.00       0.00   87455 …55 
+      0     0.00       0.00       0.00   97336 …36 
+      0     0.00      48.97      55.09     590   1 accountsd
+      0     0.00       9.81       1.29     849   1 adprivacyd
+      0     0.00      19.72       0.89     664   1 AirPlayUIAgent
+      0     0.00      14.45       2.55     624   1 akd
+      0     0.00       5.25       0.04     642   1 AMPDeviceDiscov
+      0     0.00      13.44       0.62     818   1 AMPLibraryAgent
+      0     0.00      12.09       0.98     672   1 amsaccountsd
+      0     0.00      22.69       3.29   83424   1 amsengagementd
+      0     0.00     107.75      10.41   83663   1 AppleSpell
+      0     0.00       9.55       0.60     646   1 AppSSOAgent
+      0     0.00      24.69       4.00   83418   1 appstoreagent
+      0     0.00      11.50       0.49   21402   1 AquaAppearanceH
+      0     0.00       7.14       0.62     661   1 askpermissiond
+      0     0.00       9.31       0.67     790   1 AssetCacheLocat
+      0     0.00      38.56      18.49     597   1 assistantd
+      0     0.00      38.62      25.53   19010   1 assistant_servi
+      0     0.00       5.97       0.06     839   1 AudioComponentR
+      0     0.00      32.34     202.61   83653   1 avconferenced
+      0     0.00       6.39       0.05     564   1 backgroundtaskm
+      0     0.00      32.64      21.48     579   1 bird
+      0     0.00     295.03       0.98   22711   1 Brave Browser
+      0     0.00     112.59       0.63   22718   1 Brave Browser H
+      0     0.00      51.39       0.14   22719   1 Brave Browser H
+      0     0.00      26.86       0.01   22720   1 Brave Browser H
+      0     0.00     168.59       0.12   22728   1 Brave Browser H
+      0     0.00      63.19       0.00   22729   1 Brave Browser H
+      0     0.00     131.88       0.05   22730   1 Brave Browser H
+      0     0.00     153.86       0.12   22731   1 Brave Browser H
+      0     0.00     185.52       0.24   22767   1 Brave Browser H
+      0     0.00      24.58       0.00   23205   1 Brave Browser H
+      0     0.00      38.77       0.00   23257   1 Brave Browser H
+      0     0.00     134.95       0.04   23284   1 Brave Browser H
+      0     0.00      53.45       0.00   23320   1 Brave Browser H
+      0     0.00       8.25       0.03   19269 …69 CacheDeleteExte
+      0     0.00      52.98     131.99     614   1 CalendarAgent
+      0     0.00       6.86       0.00   73171 …71 CalendarWidgetE
+      0     0.00      30.56      33.05   83541 …41 CalendarWidgetE
+      0     0.00      14.91      24.30     593   1 CallHistoryPlug
+      0     0.00      16.94       2.65   83604   1 CallHistorySync
+      0     0.00      34.88      26.32     604   1 callservicesd
+      0     0.00      30.64      31.61     706 706 CalNCService
+      0     0.00       3.95       0.00   72616 …16 CategoriesServi
+      0     0.00       3.95       0.00   72621 …21 CategoriesServi
+      0     0.00       3.95       0.00   72660 …60 CategoriesServi
+      0     0.00       7.64       0.02   72785 …85 CategoriesServi
+      0     0.00       3.97       0.00   89511 …11 CategoriesServi
+      0     0.00       6.30       0.08     610   1 cdpd
+      0     0.00       6.06      64.06     527   1 cfprefsd
+      0     0.00       3.86       0.00   22713 …12 chrome_crashpad
+      0     0.00       3.95       0.00   22846 …45 chrome_crashpad
+      0     0.00      60.50      48.98     615   1 cloudd
+      0     0.00       5.92       0.06   20237   1 CloudKeychainPr
+      0     0.00     308.16   1,206.82     665   1 cloudpaird
+      0     0.00      14.22       2.71   86509   1 cloudphotod
+      0     0.00       5.23       0.25   83416   1 CMFSyncAgent
+      0     0.00      27.92       0.01   22849   1 Code Helper
+      0     0.00      83.80       1.23   22847   1 Code Helper (GP
+      0     0.00     277.91       5.43   22850   1 Code Helper (Re
+      0     0.00     116.28       0.20   22885   1 Code Helper (Re
+      0     0.00     105.94       0.12   22886   1 Code Helper (Re
+      0     0.00      37.03       0.10   22887   1 Code Helper (Re
+      0     0.00      55.39       0.14   22888   1 Code Helper (Re
+      0     0.00      34.30       0.01   23008   1 Code Helper (Re
+      0     0.00       3.33       0.04   83686   1 colorsync.usera
+      0     0.00       2.12       0.00   72573   1 com.apple.acces
+      0     0.00      30.72       0.01   22842 …42 com.apple.appki
+      0     0.00      63.06       0.03   23032 …32 com.apple.appki
+      0     0.00      27.89       0.97   41506 …06 com.apple.appki
+      0     0.00       2.97       0.00   14385 …85 com.apple.AppSt
+      0     0.00       5.64       0.03   84748   1 com.apple.BKAge
+      0     0.00       6.89       0.01   19976   1 com.apple.Chara
+      0     0.00      12.66       0.30   83907 …07 com.apple.Cloud
+      0     0.00       7.28       0.38   97841   1 com.apple.Cloud
+      0     0.00       2.42       0.00   94893   1 com.apple.Dicti
+      0     0.00      20.69       1.05     588 588 com.apple.dock.
+      0     0.00      22.58       6.02     633   1 com.apple.geod
+      0     0.00       6.97       5.00     679   1 com.apple.hiser
+      0     0.00      14.89       0.01   73177 …77 com.apple.Notes
+      0     0.00      13.88      24.84   92676 …76 com.apple.photo
+      0     0.00       7.70      20.34   96294 …94 com.apple.photo
+      0     0.00      20.47      13.98     677   1 com.apple.quick
+      0     0.00      21.64       1.16   39756 …56 com.apple.Safar
+      0     0.00       9.73       0.00   76891 …91 com.apple.Safar
+      0     0.00      10.16       0.02   76912   1 com.apple.Safar
+      0     0.00      27.38      27.95   85902   1 com.apple.Safar
+      0     0.00      12.39       0.00   89597 …97 com.apple.Safar
+      0     0.00      19.98       1.68   91427 …27 com.apple.Safar
+      0     0.00      12.33       3.23     589   1 com.apple.sbd
+      0     0.00      53.44      27.07     617 617 com.apple.siri.
+      0     0.00      14.67       0.00   22188 …88 com.apple.siri.
+      0     0.00       8.12       0.00   87476 …76 com.apple.siri.
+      0     0.00       9.81       0.78   83819   1 com.apple.speec
+      0     0.00       8.64       0.05   83900   1 com.apple.speec
+      0     0.00       2.69       0.00   77702   1 com.apple.tonel
+      0     0.00      15.72       1.25     577   1 CommCenter
+      0     0.00      15.27       4.07     684   1 commerce
+      0     0.00       7.00      10.95     613   1 ContactsAccount
+      0     0.00      14.69      15.07   85937   1 contactsdonatio
+      0     0.00       9.33     170.99     566   1 containermanage
+      0     0.00       9.45       0.86     754 754 ContainerMetada
+      0     0.00      13.53       1.95     638   1 ContextService
+      0     0.00      14.09       6.73     592   1 ContextStoreAge
+      0     0.00      64.42      73.57     549   1 ControlCenter
+      0     0.00      17.78       2.29   91424 …24 ControlCenterHe
+      0     0.00      21.28       1.94     786   1 coreautha
+      0     0.00       9.05       0.23     730   1 coreauthd
+      0     0.00      11.55       0.68     628   1 CoreLocationAge
+      0     0.00      29.75       3.02   89057   1 CoreServicesUIA
+      0     0.00      58.81     549.15     649   1 corespeechd
+      0     0.00     270.88      28.50   87300   1 corespotlightd
+      0     0.00      19.64       0.05   86093   1 CoreSpotlightSe
+      0     0.00       4.59       0.01     683   1 ctkahp
+      0     0.00       5.48       0.08     621   1 ctkd
+      0     0.00       7.67       1.98   83433   1 deleted
+      0     0.00       2.95       0.01   20208   1 devicecheckd
+      0     0.00       5.38       0.05     766   1 diagnosticexten
+      0     0.00       8.77       0.81     668   1 diagnostics_age
+      0     0.00       2.47       0.00   90187   1 DiskUnmountWatc
+      0     0.00      15.14      36.56     525   1 distnoted
+      0     0.00       7.72       1.64     576   1 dmd
+      0     0.00      58.92      12.95     547   1 Dock
+      0     0.00      12.45       0.77   90246 …46 DockHelper
+      0     0.00       3.33       0.00   22684 …84 eapolclient
+      0     0.00     138.64       0.97   22844   1 Electron
+      0     0.00       5.78       0.03   20226   1 EscrowSecurityA
+      0     0.00      16.22       2.22     626   1 familycircled
+      0     0.00      11.66       0.83     641   1 fileproviderd
+      0     0.00     200.17      37.96   62616   1 Finder
+      0     0.00       7.12       0.16     844   1 findmydevice-us
+      0     0.00       9.73       0.00   77930 …30 FindMyNotificat
+      0     0.00      16.09       2.75     631   1 fmfd
+      0     0.00       8.58       0.23   20212 …12 FMIPClientXPCSe
+      0     0.00       4.66       0.04     837   1 followupd
+      0     0.00      12.12       4.30     572   1 fontd
+      0     0.00       4.44       0.02     573   1 fontworker
+      0     0.00      19.08      24.92    7174   1 gamed
+      0     0.00      12.97       2.07   85939   1 heard
+      0     0.00      15.64       1.29     625   1 homed
+      0     0.00       7.08       2.14     658   1 icdd
+      0     0.00       7.67       0.19   87635   1 iCloudNotificat
+      0     0.00       5.55       0.00   62682   1 iCloudUserNotif
+      0     0.00      22.62       2.42     575   1 iconservicesage
+      0     0.00      39.89      30.20     607   1 identityservice
+      0     0.00      80.12      25.77     616   1 imagent
+      0     0.00       4.38       0.09   83585   1 IMAutomaticHist
+      0     0.00      72.55     321.44     619   1 IMDPersistenceA
+      0     0.00      10.16       1.08     656   1 imklaunchagent
+      0     0.00       8.19       0.42     704 704 IMRemoteURLConn
+      0     0.00       5.45       0.11    4780 …80 IMRemoteURLConn
+      0     0.00       5.42       0.15   86439 …39 IMRemoteURLConn
+      0     0.00       5.30       0.17   86756 …56 IMRemoteURLConn
+      0     0.00       5.44       0.15   86787 …87 IMRemoteURLConn
+      0     0.00      10.42       1.11   20020 …20 IMTranscoderAge
+      0     0.00       3.39       0.00   23317   1 installerauthag
+      0     0.00       4.84       0.00   79267 …67 intents_helper
+      0     0.00       3.78       0.00   92299   1 ipcserver
+      0     0.00      25.70       1.81     599   1 itunescloudd
+      0     0.00      34.11       0.30    1316   1 Java Updater
+      0     0.00       7.97       0.27   83664   1 keyboardservice
+      0     0.00       9.91       0.60     608   1 Keychain Circle
+      0     0.00      17.94       8.44     545   1 knowledge-agent
+      0     0.00       3.75       0.01   19548   1 localizationswi
+      0     0.00      15.34      14.97   86465   1 LocationMenu
+      0     0.00       5.77       4.14     584   1 lockoutagent
+      0     0.00      81.38      18.41     654   1 LogiMgrDaemon
+      0     0.00       2.78       0.00    6925   1 loginitemregist
+      0     0.00      51.12      11.22     349 349 loginwindow
+      0     0.00      13.27       5.26     546   1 lsd
+      0     0.00      10.83       0.01   72921 …21 MailCacheDelete
+      0     0.00      11.56      37.81   86461   1 mapspushd
+      0     0.00      11.58       5.72     874   1 mdbulkimport
+      0     0.00      14.23       0.00   23330   1 mdworker_shared
+      0     0.00      14.80       0.00   23332   1 mdworker_shared
+      0     0.00       9.47       0.00   23333   1 mdworker_shared
+      0     0.00       5.28       0.20   83614   1 mdwrite
+      0     0.00       9.00       0.15   87553 …53 media-indexer
+      0     0.00       4.12       0.10     627   1 mediaremoteagen
+      0     0.00       6.38       0.00   77402 …02 MessagesBlastDo
+      0     0.00       7.05       0.27   83442 …42 MessagesBlastDo
+      0     0.00     273.12       0.54   22826   1 Microsoft Word
+      0     0.00       8.75       0.00   22978 …78 MTLCompilerServ
+      0     0.00       8.08       0.00   23244 …44 MTLCompilerServ
+      0     0.00       2.98       0.00   73187 …87 MTLCompilerServ
+      0     0.00       2.98       0.00   73188 …88 MTLCompilerServ
+      0     0.00       3.06       0.00   81529 …29 MTLCompilerServ
+      0     0.00       3.00       0.00   89512 …12 MTLCompilerServ
+      0     0.00       3.00       0.00   89513 …13 MTLCompilerServ
+      0     0.00       6.80       0.03   19270 …70 MusicCacheExten
+      0     0.00      18.25       0.90   87478   1 nbagent
+      0     0.00       9.80       0.13   20441   1 ndoagent
+      0     0.00       9.83       3.19     544   1 neagent
+      0     0.00       4.19       0.02   19466   1 networkservicep
+      0     0.00      20.69       0.03   73180 …80 NewsTag
+      0     0.00      19.97       0.03   73173 …73 NewsToday2
+      0     0.00     124.23     169.68   14467   1 NordVPN IKE
+      0     0.00     125.72      53.99     568   1 NotificationCen
+      0     0.00      28.64      26.47     582   1 nsurlsessiond
+      0     0.00      13.52       1.87   10979   1 OSDUIHelper
+      0     0.00      10.52       1.85     737 737 PAH_Extension
+      0     0.00      17.28       2.90     678   1 parsecd
+      0     0.00      18.81       1.33   86489   1 passd
+      0     0.00       7.38       3.46   83420   1 PasswordBreachA
+      0     0.00       7.11       0.32     565   1 pboard
+      0     0.00       4.83       0.21     685   1 pbs
+      0     0.00      80.50     152.61   86494   1 photoanalysisd
+      0     0.00      59.64      50.93     603   1 photolibraryd
+      0     0.00      17.34       0.01   73176 …76 PhotosReliveWid
+      0     0.00      16.05       8.00     558   1 pkd
+      0     0.00       1.94       0.00   10249 …49 PlugInLibrarySe
+      0     0.00       1.44       0.00   18631 …31 PlugInLibrarySe
+      0     0.00       2.52       0.00   22771 …71 PlugInLibrarySe
+      0     0.00       2.52       0.00   72642 …42 PlugInLibrarySe
+      0     0.00       1.80       0.00   72666 …66 PlugInLibrarySe
+      0     0.00       1.75       0.00   72668 …68 PlugInLibrarySe
+      0     0.00       2.42       0.00   72695 …95 PlugInLibrarySe
+      0     0.00       2.19       0.00   83906 …06 PlugInLibrarySe
+      0     0.00       4.05       0.00   84746   1 PodcastContentS
+      0     0.00      24.19       0.00   73189 …89 PodcastsWidget
+      0     0.00      17.48       1.66   86460   1 PowerChime
+      0     0.00       4.22       0.05   77788   1 printtool
+      0     0.00       7.59       0.00   20575   1 PrintUITool
+      0     0.00       7.34       0.04   85763   1 progressd
+      0     0.00       5.97       0.04     611   1 ProtectedCloudK
+      0     0.00     820.55       0.25   22823 …87 pwsh
+      0     0.00   1,428.64       2.20   22976 …76 pwsh
+      0     0.00      66.55       2.42   18869 …69 QuickLookSatell
+      0     0.00      18.22       1.64   20164 …64 QuickLookUIServ
+      0     0.00      14.19       0.00   22843 …43 QuickLookUIServ
+      0     0.00      14.45       0.00   23033 …33 QuickLookUIServ
+      0     0.00      12.66       0.44   41507 …07 QuickLookUIServ
+      0     0.00      20.56       0.44   62617 …17 QuickLookUIServ
+      0     0.00      73.23     162.68     563   1 rapportd
+      0     0.00       5.30       0.10   87361   1 rcd
+      0     0.00      11.06       1.02   83444   1 recentsd
+      0     0.00      31.81       1.65   97562   1 Rectangle
+      0     0.00      20.56       0.04   22603   1 remindd
+      0     0.00      13.56       0.00   73191 …91 RemindersWidget
+      0     0.00       4.83       0.01   19265   1 replayd
+      0     0.00      13.05       0.23   18665   1 ReportCrash
+      0     0.00       7.64       0.36   83446   1 reversetemplate
+      0     0.00     100.27     120.96     586   1 routined
+      0     0.00      11.19       4.41   13577   1 SafariBookmarks
+      0     0.00       7.75       0.93   73773   1 SafariCloudHist
+      0     0.00      11.47       0.00   73602   1 SafariLaunchAge
+      0     0.00      10.06       0.13   83928   1 ScopedBookmarkA
+      0     0.00      18.97       0.16   20388   1 screencaptureui
+      0     0.00      25.30      32.09     600   1 ScreenTimeAgent
+      0     0.00      31.58      13.37   83408 …08 ScreenTimeWidge
+      0     0.00      19.42       8.61   84360   1 searchpartyuser
+      0     0.00      21.39      57.37     553   1 secd
+      0     0.00       8.52       0.11   89876   1 secinitd
+      0     0.00       6.00       0.49   97840 …40 setoken
+      0     0.00       9.08       0.60     574   1 sharedfilelistd
+      0     0.00      81.33      84.14     601   1 sharingd
+      0     0.00       6.47       0.00   10109 …09 SharingXPCHelpe
+      0     0.00       6.08       0.08     637   1 SidecarRelay
+      0     0.00      11.95       9.01     657   1 Siri
+      0     0.00       8.17       0.53    1030   1 siriknowledged
+      0     0.00      34.59       8.21    1044 …44 SiriNCService
+      0     0.00      15.70       0.79     832   1 SoftwareUpdateN
+      0     0.00       4.45       0.01     630   1 spindump_agent
+      0     0.00     227.55      15.63     675   1 Spotlight
+      0     0.00      29.09       3.92   26981   1 SSMenuAgent
+      0     0.00      26.16       0.02   73193 …93 StocksWidget
+      0     0.00       6.47       0.21   83552   1 storeaccountd
+      0     0.00       4.38       0.01   83571   1 storedownloadd
+      0     0.00      10.19       0.61   97838   1 storeuid
+      0     0.00      22.61       9.13   86481   1 studentd
+      0     0.00     104.28     142.40     815   1 suggestd
+      0     0.00       9.17       1.13     598   1 swcd
+      0     0.00      18.44       2.43     550   1 SystemUIServer
+      0     0.00      10.91       0.53     548   1 talagent
+      0     0.00      12.67       2.80     602   1 tccd
+      0     0.00     122.06       0.30   22786   1 Terminal
+      0     0.00      14.30       1.30     669   1 TextInputMenuAg
+      0     0.00      13.31       0.92     680   1 TextInputSwitch
+      0     0.00      16.45       0.02   76917   1 translationd
+      0     0.00      16.95       2.05   18639   1 transparencyd
+      0     0.00       6.47       0.15    6901   1 triald
+      0     0.00      22.98      29.76     561   1 trustd
+      0     0.00      10.33       0.79     618   1 TrustedPeersHel
+      0     0.00       6.77       0.03   19272 …72 TVCacheExtensio
+      0     0.00      15.55       1.42   83411   1 UIKitSystem
+      0     0.00      16.09       1.47   20852   1 universalAccess
+      0     0.00       7.41       2.94   83409   1 UsageTrackingAg
+      0     0.00       2.16       0.00    8637   1 USBAgent
+      0     0.00       9.41       8.60     587   1 useractivityd
+      0     0.00      17.25      22.01     541   1 UserEventAgent
+      0     0.00      17.14       1.51     562   1 usernoted
+      0     0.00      26.53       1.80   94494   1 UserNotificatio
+      0     0.00      82.97       0.02   23311   1 UTM
+      0     0.00       9.95       1.84     560   1 ViewBridgeAuxil
+      0     0.00     696.38       0.21   22994   1 vsls-agent
+      0     0.00       7.08       0.00    3406 …06 VTDecoderXPCSer
+      0     0.00       6.80       0.00   10086 …86 VTDecoderXPCSer
+      0     0.00       5.55       0.02   16843 …43 VTDecoderXPCSer
+      0     0.00       8.52       0.00   22724 …24 VTDecoderXPCSer
+      0     0.00       7.73       0.00   22848 …48 VTDecoderXPCSer
+      0     0.00       5.77       0.02   78050 …50 VTDecoderXPCSer
+      0     0.00       7.19       1.00   94959 …59 VTDecoderXPCSer
+      0     0.00       5.89       0.00   22725 …25 VTEncoderXPCSer
+      0     0.00       5.70       0.00   22884 …84 VTEncoderXPCSer
+      0     0.00      12.28       1.53   94958 …58 VTEncoderXPCSer
+      0     0.00      87.00      13.14   18374 …74 WeatherWidget
+      0     0.00      48.41      22.79     581   1 WiFiAgent
+      0     0.00       3.50       0.05    7009   1 WiFiVelocityAge
+      0     0.00      23.48       0.01   73174 …74 WorldClockWidge
+      0     0.00       7.02       0.06   89737 …37 XprotectService
+      0     0.00       1.88       0.00   22788 …87 zsh
+      0     0.00       2.34       0.00   22923 …23 zsh
+
+
+CommandType     Name                                               Version    Source
+-----------     ----                                               -------    ------
+Alias           ? -> Where-Object                                             
+Alias           % -> ForEach-Object                                           
+Alias           cd -> Set-Location                                            
+Alias           chdir -> Set-Location                                         
+Alias           clc -> Clear-Content                                          
+Alias           clhy -> Clear-History                                         
+Alias           cli -> Clear-Item                                             
+Alias           clp -> Clear-ItemProperty                                     
+Alias           cls -> Clear-Host                                             
+Alias           clv -> Clear-Variable                                         
+Alias           copy -> Copy-Item                                             
+Alias           cpi -> Copy-Item                                              
+Alias           cvpa -> Convert-Path                                          
+Alias           dbp -> Disable-PSBreakpoint                                   
+Alias           del -> Remove-Item                                            
+Alias           dir -> Get-ChildItem                                          
+Alias           ebp -> Enable-PSBreakpoint                                    
+Alias           echo -> Write-Output                                          
+Alias           epal -> Export-Alias                                          
+Alias           epcsv -> Export-Csv                                           
+Alias           erase -> Remove-Item                                          
+Alias           etsn -> Enter-PSSession                                       
+Alias           exsn -> Exit-PSSession                                        
+Alias           fc -> Format-Custom                                           
+Alias           fhx -> Format-Hex                                  7.0.0.0    Microsoft.…
+Alias           fl -> Format-List                                             
+Alias           foreach -> ForEach-Object                                     
+Alias           ft -> Format-Table                                            
+Alias           fw -> Format-Wide                                             
+Alias           gal -> Get-Alias                                              
+Alias           gbp -> Get-PSBreakpoint                                       
+Alias           gc -> Get-Content                                             
+Alias           gcb -> Get-Clipboard                               7.0.0.0    Microsoft.…
+Alias           gci -> Get-ChildItem                                          
+Alias           gcm -> Get-Command                                            
+Alias           gcs -> Get-PSCallStack                                        
+Alias           gdr -> Get-PSDrive                                            
+Alias           gerr -> Get-Error                                             
+Alias           ghy -> Get-History                                            
+Alias           gi -> Get-Item                                                
+Alias           gjb -> Get-Job                                                
+Alias           gl -> Get-Location                                            
+Alias           gm -> Get-Member                                              
+Alias           gmo -> Get-Module                                             
+Alias           gp -> Get-ItemProperty                                        
+Alias           gps -> Get-Process                                            
+Alias           gpv -> Get-ItemPropertyValue                                  
+Alias           group -> Group-Object                                         
+Alias           gsn -> Get-PSSession                                          
+Alias           gtz -> Get-TimeZone                                7.0.0.0    Microsoft.…
+Alias           gu -> Get-Unique                                              
+Alias           gv -> Get-Variable                                            
+Alias           h -> Get-History                                              
+Alias           history -> Get-History                                        
+Alias           icm -> Invoke-Command                                         
+Alias           iex -> Invoke-Expression                                      
+Alias           ihy -> Invoke-History                                         
+Alias           ii -> Invoke-Item                                             
+Alias           ipal -> Import-Alias                                          
+Alias           ipcsv -> Import-Csv                                           
+Alias           ipmo -> Import-Module                                         
+Alias           irm -> Invoke-RestMethod                                      
+Alias           iwr -> Invoke-WebRequest                                      
+Alias           md -> mkdir                                                   
+Alias           measure -> Measure-Object                                     
+Alias           mi -> Move-Item                                               
+Alias           move -> Move-Item                                             
+Alias           mp -> Move-ItemProperty                                       
+Alias           nal -> New-Alias                                              
+Alias           ndr -> New-PSDrive                                            
+Alias           ni -> New-Item                                                
+Alias           nmo -> New-Module                                             
+Alias           nsn -> New-PSSession                                          
+Alias           nv -> New-Variable                                            
+Alias           oh -> Out-Host                                                
+Alias           popd -> Pop-Location                                          
+Alias           pushd -> Push-Location                                        
+Alias           pwd -> Get-Location                                           
+Alias           r -> Invoke-History                                           
+Alias           rbp -> Remove-PSBreakpoint                                    
+Alias           rcjb -> Receive-Job                                           
+Alias           rcsn -> Receive-PSSession                                     
+Alias           rd -> Remove-Item                                             
+Alias           rdr -> Remove-PSDrive                                         
+Alias           ren -> Rename-Item                                            
+Alias           ri -> Remove-Item                                             
+Alias           rjb -> Remove-Job                                             
+Alias           rmo -> Remove-Module                                          
+Alias           rni -> Rename-Item                                            
+Alias           rnp -> Rename-ItemProperty                                    
+Alias           rp -> Remove-ItemProperty                                     
+Alias           rsn -> Remove-PSSession                                       
+Alias           rv -> Remove-Variable                                         
+Alias           rvpa -> Resolve-Path                                          
+Alias           sajb -> Start-Job                                             
+Alias           sal -> Set-Alias                                              
+Alias           saps -> Start-Process                                         
+Alias           sbp -> Set-PSBreakpoint                                       
+Alias           scb -> Set-Clipboard                               7.0.0.0    Microsoft.…
+Alias           select -> Select-Object                                       
+Alias           set -> Set-Variable                                           
+Alias           si -> Set-Item                                                
+Alias           sl -> Set-Location                                            
+Alias           sls -> Select-String                                          
+Alias           sp -> Set-ItemProperty                                        
+Alias           spjb -> Stop-Job                                              
+Alias           spps -> Stop-Process                                          
+Alias           sv -> Set-Variable                                            
+Alias           type -> Get-Content                                           
+Alias           where -> Where-Object                                         
+Alias           wjb -> Wait-Job                                               
+

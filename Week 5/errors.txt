@@ -1,0 +1,4 @@
+
+[91mRemove-Item: [91mCannot find path '/Users/zacharylucas/Documents/School Stuff/College/Classes Fall 2021/Advanced Scripting/Week 5/out0' because it does not exist.[0m
+
+[91mRemove-Item: [91mCannot find path '/Users/zacharylucas/Documents/School Stuff/College/Classes Fall 2021/Advanced Scripting/Week 5/out5' because it does not exist.[0m
